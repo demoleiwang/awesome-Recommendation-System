@@ -90,7 +90,7 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
     *Kaiyuan Li,Pengfei Wang,Chenliang Li.* 
 
-* **[[MARIS'22]](https://dl-acm-org.libproxy.smu.edu.sg/doi/pdf/10.1145/3477495.3532022)** Multi-Agent RL-based Information Selection Framework for Sequential Recommendation. x.
+* **[[MARIS'22]](https://dl-acm-org.libproxy.smu.edu.sg/doi/pdf/10.1145/3477495.3532022)** Multi-Agent RL-based Information Selection Framework for Sequential Recommendation. SIGIR 2022.
 
     *Kaiyuan Li, Pengfei Wang, Chenliang Li* 
 
@@ -98,10 +98,21 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
     *Yueqi Xie, Peilin Zhou, Sunghun Kim.* 
 
+* **[[MGNM'22]](https://arxiv.org/pdf/2205.01286.pdf)** When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for Sequential Recommendation. SIGIR 2022. [[code](https://github.com/WHUIR/MGNM)] 
+
+    *Yu Tian, Jianxin Chang, Yannan Niu, Yang Song, Chenliang Li.* 
+
 * **[[]]()** x. x. [[code](x)] 
 
     *x* 
 
+* **[[]]()** x. x. [[code](x)] 
+
+    *x* 
+
+* **[[]]()** x. x. [[code](x)] 
+
+    *x* 
 
 * **[[GenNi'22]](https://arxiv.org/pdf/2208.03645.pdf)** Generating Negative Samples for Sequential Recommendation. 2022. 
 
