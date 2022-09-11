@@ -20,4 +20,4 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
     *Yongjun Chen, Jia Li, Zhiwei Liu, Nitish Shirish Keskar, Huan Wang, Julian McAuley, Caiming Xiong.* 
     
-    : uninformative negatives => generating negative samples
+    :) uninformative negatives => generating negative samples
