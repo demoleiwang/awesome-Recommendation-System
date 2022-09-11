@@ -102,17 +102,22 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
     *Yu Tian, Jianxin Chang, Yannan Niu, Yang Song, Chenliang Li.* 
 
-* **[[]]()** x. x. [[code](x)] 
+* **[[IPS'22]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539430)** Debiasing the Cloze Task in Sequential Recommendation with Bidirectional Transformers. KDD 2022. [[code](https://github.com/KhalilDMK/DebiasedBERT4Rec)] 
 
-    *x* 
+    *Khalil Damak , Sami Khenissi , Olfa Nasraoui.* 
 
-* **[[]]()** x. x. [[code](x)] 
+* **[[PARSRec'22]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539432)** PARSRec: Explainable Personalized Attention-fused Recurrent Sequential Recommendation Using Session Partial Actions. x. [[code](https://github.com/ehgh/PARSRec)] 
 
-    *x* 
+    *Ehsan Gholami , Mohammad Motamedi , Ashwin Aravindakshan.* 
 
-* **[[]]()** x. x. [[code](x)] 
+* **[[UniSRec'22]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539381)** Towards Universal Sequence Representation Learning for Recommender Systems. KDD 2022. [[code](https://dl.acm.org/doi/pdf/10.1145/3534678.3539381)] 
 
-    *x* 
+    *Yupeng Hou , Shanlei Mu , Wayne Xin Zhao , Yaliang Li , Bolin Ding , Ji-Rong Wen.* 
+    
+* **[[MBHT'22]]()** Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation. KDD 2022. [[code](https://github.com/yuh-yang/MBHT-KDD22)] 
+
+    *Yuhao Yang , Chao Huang , Lianghao Xia , Yuxuan Liang , Yanwei Yu , Chenliang Li.* 
+
 
 * **[[GenNi'22]](https://arxiv.org/pdf/2208.03645.pdf)** Generating Negative Samples for Sequential Recommendation. 2022. 
 
