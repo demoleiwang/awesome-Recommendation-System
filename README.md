@@ -106,7 +106,7 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
     *Khalil Damak , Sami Khenissi , Olfa Nasraoui.* 
 
-* **[[PARSRec'22]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539432)** PARSRec: Explainable Personalized Attention-fused Recurrent Sequential Recommendation Using Session Partial Actions. x. [[code](https://github.com/ehgh/PARSRec)] 
+* **[[PARSRec'22]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539432)** PARSRec: Explainable Personalized Attention-fused Recurrent Sequential Recommendation Using Session Partial Actions. KDD 2022. [[code](https://github.com/ehgh/PARSRec)] 
 
     *Ehsan Gholami , Mohammad Motamedi , Ashwin Aravindakshan.* 
 
