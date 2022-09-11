@@ -16,13 +16,9 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
 ## Sequential Recommendation
 
-* **[[]]()** x. x. [[code](x)] 
+* **[[SINE'21]](https://arxiv.org/pdf/2102.09267.pdf)** Sparse-Interest Network for Sequential Recommendation. WSDM 2021. 
 
-    *x* 
-
-* **[[]]()** x. x. [[code](x)] 
-
-    *x* 
+    *Qiaoyu Tan, Jianwei Zhang, Jiangchao Yao, Ninghao Liu, Jingren Zhou, Hongxia Yang, Xia Hu.* 
 
 * **[[]]()** x. x. [[code](x)] 
 
@@ -35,6 +31,10 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 * **[[]]()** x. x. [[code](x)] 
 
     *x* 
+
+* **[[ASReP'21]](https://dl.acm.org/doi/pdf/10.1145/3404835.3463036)** Augmenting sequential recommendation with pseudo-prior items via reversely pre-training transformer. SIGIR 2021. [[code](https://github.com/DyGRec/ASReP)] 
+
+    *Zhiwei Liu, Ziwei Fan, Yu Wang, Philip S Yu.* 
 
 * **[[CoSeRec'21]](https://arxiv.org/pdf/2108.06479)** Contrastive self-supervised sequential recommendation with robust augmentation. x. [[code](https://github.com/YChen1993/CoSeRec)] 
 
