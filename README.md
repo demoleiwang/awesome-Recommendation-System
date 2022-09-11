@@ -16,8 +16,17 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
 ## Sequential Recommendation
 
+
 * **[[GenNi'22]](https://arxiv.org/pdf/2208.03645.pdf)** Generating Negative Samples for Sequential Recommendation. 2022. 
 
     *Yongjun Chen, Jia Li, Zhiwei Liu, Nitish Shirish Keskar, Huan Wang, Julian McAuley, Caiming Xiong.* 
     
     :) uninformative negatives => generating negative samples
+
+* **[[ContrastVAE'22]](https://arxiv.org/pdf/2209.00456.pdf)** ContrastVAE: Contrastive Variational AutoEncoder for Sequential Recommendation. CIKM 2022. [[code](https://github.com/YuWang-1024/ContrastVAE)] 
+
+    *Yu Wang, Hengrui Zhang, Zhiwei Liu, Liangwei Yang, Philip S Yu.* 
+
+* **[[ECL4SRec'22]](https://arxiv.org/pdf/2209.01347)** Explanation Guided Contrastive Learning for Sequential Recommendation. CIKM 2022. [[code](https://github.com/demoleiwang/EC4SRec)] 
+
+    *Lei Wang, Ee-Peng Lim, Zhiwei Liu, Tianxiang Zhao.* 
