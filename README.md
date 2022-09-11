@@ -54,6 +54,17 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 * **[[ICLRec'22]](https://arxiv.org/pdf/2202.02519.pdf)** Intent Contrastive Learning for Sequential Recommendation. WWW 2022. [[code](https://github.com/salesforce/ICLRec)] 
 
     *Yongjun Chen, Zhiwei Liu, Jia Li, Julian McAuley, Caiming Xiong.* 
+    
+* **[[FMLP-Rec'22]](https://arxiv.org/pdf/2202.13556.pdf)** Filter-enhanced MLP is All You Need for Sequential Recommendation. WWW 2022. [[code](https://arxiv.org/abs/2202.13556)] 
+
+    *Kun Zhou, Hui Yu, Wayne Xin Zhao, Ji-Rong Wen.* 
+
+* **[[STARec'22]](https://arxiv.org/pdf/2202.03097.pdf)** Learn over Past, Evolve for Future: Search-based Time-aware Recommendation with Sequential Behavior Data. WWW 2022.
+
+
+* **[[]]()** x. x. [[code](x)] 
+
+    *x* 
 
 
 * **[[GenNi'22]](https://arxiv.org/pdf/2208.03645.pdf)** Generating Negative Samples for Sequential Recommendation. 2022. 
