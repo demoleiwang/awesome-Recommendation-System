@@ -62,6 +62,42 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 * **[[STARec'22]](https://arxiv.org/pdf/2202.03097.pdf)** Learn over Past, Evolve for Future: Search-based Time-aware Recommendation with Sequential Behavior Data. WWW 2022.
 
 
+* **[[DCN'22]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531918)** Dual Contrastive Network for Sequential Recommendation. SIGIR 2022 (SHORT). [[code](x)] 
+
+    *Guanyu Lin , Chen Gao , Yinfeng Li , Yu Zheng , Zhiheng Li , Depeng Jin , Yong Li.* 
+
+* **[[ESI'22]](https://arxiv.org/pdf/2204.10851.pdf)** Exploiting Session Information in BERT-based Session-aware Sequential Recommendation. SIGIR 2022 (SHORT). [[code](https://github.com/theeluwin/session-aware-bert4rec)] 
+
+    *Jinseok Seol, Youngrok Ko, Sang-goo Lee.* 
+
+* **[[ELECRec'22]](https://arxiv.org/pdf/2204.02011.pdf)** ELECRec: Training Sequential Recommenders as Discriminators. SIGIR 2022 (SHORT). [[code](https://github.com/YChen1993/ELECRec)] 
+
+    *Yongjun Chen, Jia Li, Caiming Xiong* 
+
+* **[[CAFE'22]](https://arxiv.org/pdf/2204.01839.pdf)** Coarse-to-Fine Sparse Sequential Recommendation. SIGIR 2022.
+
+    *Jiacheng Li, Tong Zhao, Jin Li, Jim Chan, Christos Faloutsos, George Karypis, Soo-Min Pantel, Julian McAuley.* 
+
+* **[[IPSRec]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531756)** Item-Provider Co-learning for Sequential Recommendation. SIGIR 2022. [[code](https://github.com/siat-nlp/IPSRec)] 
+
+    *Lei Chen , Jingtao Ding , Min Yang , Chengming Li , Chonggang Song , Lingling Yi.* 
+
+* **[[DPP'22]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531965)** Determinantal Point Process Likelihoods for Sequential Recommendation. SIGIR 2022. [[code](https://github.com/l-lyl/DPPLikelihoods4SeqRec)] 
+
+    *Yuli Liu , Christian Walder , Lexing Xie.* 
+
+* **[[Ada-Ranker'22]](https://arxiv.org/pdf/2205.10775.pdf)** Ada-Ranker: A Data Distribution Adaptive Ranking Paradigm for Sequential Recommendation. SIGIR 2022. [[code](https://github.com/RUCAIBox/Ada-Ranker)] 
+
+    *Kaiyuan Li,Pengfei Wang,Chenliang Li.* 
+
+* **[[MARIS'22]](https://dl-acm-org.libproxy.smu.edu.sg/doi/pdf/10.1145/3477495.3532022)** Multi-Agent RL-based Information Selection Framework for Sequential Recommendation. x.
+
+    *Kaiyuan Li, Pengfei Wang, Chenliang Li* 
+
+* **[[DIF-SR'22]](https://arxiv.org/pdf/2204.11046)** Decoupled Side Information Fusion for Sequential Recommendation. SIGIR 2022. [[code](https://github.com/AIM-SE/DIF-SR)] 
+
+    *Yueqi Xie, Peilin Zhou, Sunghun Kim.* 
+
 * **[[]]()** x. x. [[code](x)] 
 
     *x* 
