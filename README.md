@@ -16,8 +16,8 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
 ## Sequential Recommendation
 
-* **[[]](https://arxiv.org/pdf/2208.03645.pdf)** Generating Negative Samples for Sequential Recommendation. 2022. 
+* **[[GenNi'22]](https://arxiv.org/pdf/2208.03645.pdf)** Generating Negative Samples for Sequential Recommendation. 2022. 
 
     *Yongjun Chen, Jia Li, Zhiwei Liu, Nitish Shirish Keskar, Huan Wang, Julian McAuley, Caiming Xiong.* 
     
-    uninformative negatives => generating negative samples
+    : uninformative negatives => generating negative samples
