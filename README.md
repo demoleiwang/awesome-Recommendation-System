@@ -66,6 +66,6 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
     *Yu Wang, Hengrui Zhang, Zhiwei Liu, Liangwei Yang, Philip S Yu.* 
 
-* **[[ECL4SRec'22]](https://arxiv.org/pdf/2209.01347)** Explanation Guided Contrastive Learning for Sequential Recommendation. CIKM 2022. [[code](https://github.com/demoleiwang/EC4SRec)] 
+* **[[EC4SRec'22]](https://arxiv.org/pdf/2209.01347)** Explanation Guided Contrastive Learning for Sequential Recommendation. CIKM 2022. [[code](https://github.com/demoleiwang/EC4SRec)] 
 
     *Lei Wang, Ee-Peng Lim, Zhiwei Liu, Tianxiang Zhao.* 
