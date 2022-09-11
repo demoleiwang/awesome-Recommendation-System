@@ -20,17 +20,6 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
     *Qiaoyu Tan, Jianwei Zhang, Jiangchao Yao, Ninghao Liu, Jingren Zhou, Hongxia Yang, Xia Hu.* 
 
-* **[[]]()** x. x. [[code](x)] 
-
-    *x* 
-
-* **[[]]()** x. x. [[code](x)] 
-
-    *x* 
-
-* **[[]]()** x. x. [[code](x)] 
-
-    *x* 
 
 * **[[ASReP'21]](https://dl.acm.org/doi/pdf/10.1145/3404835.3463036)** Augmenting sequential recommendation with pseudo-prior items via reversely pre-training transformer. SIGIR 2021. [[code](https://github.com/DyGRec/ASReP)] 
 
