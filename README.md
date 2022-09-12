@@ -5,7 +5,7 @@ This repo is a collection of AWESOME things about general recommendation and seq
 Some of these papers are summarized with tables in Google Sheet. Please find the link here: [Summary](https://docs.google.com/spreadsheets/d/1X_aQ-80YNt_jjbfXzs3JreoDxJW3zAs-L1ElV6NuJgc/edit?usp=sharing)
 
 
-![](https://img.shields.io/github/last-commit/demoleiwang/awesome-Recommendation-System?color=green) ![](https://img.shields.io/badge/PaperNumber-28-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/demoleiwang/awesome-Recommendation-System?color=green) ![](https://img.shields.io/badge/PaperNumber-33-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 <!-- 
 * **[[]]()** x. x. [[code](x)] 
@@ -20,7 +20,7 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
     *Qiaoyu Tan, Jianwei Zhang, Jiangchao Yao, Ninghao Liu, Jingren Zhou, Hongxia Yang, Xia Hu.* 
 
-* **[[ACVAE'21]]([https://arxiv.org/abs/2103.10693](https://arxiv.org/pdf/2103.10693.pdf))** **Adversarial** and **Contrastive** Variational Autoencoder for Sequential Recommendation. WWW 2021. [[code](https://github.com/ACVAE/ACVAE-PyTorch)] 
+* **[[ACVAE'21]]((https://arxiv.org/pdf/2103.10693.pdf))** **Adversarial** and **Contrastive** Variational Autoencoder for Sequential Recommendation. WWW 2021. [[code](https://github.com/ACVAE/ACVAE-PyTorch)] 
 
     *Zhe Xie, Chengxuan Liu, Yichi Zhang, Hongtao Lu, Dong Wang, Yue Ding.* 
 
@@ -28,27 +28,45 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
     *Yujie Lu, Shengyu Zhang, Yingxuan Huang, Luyao Wang, Xinyao Yu, Zhou Zhao, Fei Wu.* 
 
-* **[[RetaGNN'21]](https://arxiv.org/pdf/2101.12457.pdf)** RetaGNN: **Relational Temporal** Attentive **Graph** Neural Networks for Holistic Sequential Recommendation. WWW 2021. 
+* **[[RetaGNN'21]](https://arxiv.org/pdf/2101.12457.pdf)** RetaGNN: **Relational Temporal** Attentive **Graph** Neural Networks for Holistic Sequential Recommendation. WWW 2021. [[code]](https://github.com/retagnn/RetaGNN)
 
     *Cheng Hsu, Cheng-Te Li* 
 
-* **[[]]()** x. x. [[code](x)] 
+* **[[CoCoRec'21]](https://www.cs.virginia.edu/~hw5x/paper/SIGIR2021_SeqRec_Cai.pdf)** Category-aware Collaborative Sequential Recommendation. SIGIR 2021. [[code](https://github.com/RenqinCai/CoCoRec)] 
 
-    *x* 
+    *Renqin Cai , Jibang Wu , Aidan San , Chong Wang , Hongning Wang.* 
 
-* **[[]]()** x. x. [[code](x)] 
+* **[[SURGE'21]](https://arxiv.org/pdf/2106.14226.pdf)** Sequential Recommendation with Graph Neural Networks. SIGIR 2021. [[code](https://github.com/tsinghua-fib-lab/SIGIR21-SURGE)] 
 
-    *x* 
+    *Jianxin Chang, Chen Gao, Yu Zheng, Yiqun Hui, Yanan Niu, Yang Song, Depeng Jin, Yong Li.* 
 
+* **[[StackRec'21]](https://arxiv.org/pdf/2012.07598)** StackRec: Efficient Training of Very Deep Sequential Recommender Models by Iterative Stacking. SIGIR 2021. [[code](https://github.com/wangjiachun0426/StackRec)] 
+
+    *Jiachun Wang, Fajie Yuan, Jian Chen, Qingyao Wu, Min Yang, Yang Sun, Guoxiao Zhang.* 
+
+* **[[CASR'21]](http://yongfeng.me/attach/wang-sigir2021.pdf)** Counterfactual Data-Augmented Sequential Recommendation. SIGIR 2021. [[code](x)] 
+
+    *Zhenlei Wang , Jingsen Zhang , Hongteng Xu , Xu Chen , Yongfeng Zhang , Wayne Xin Zhao , Ji-Rong Wen.* 
+
+* **[[CauseRec'21]](https://arxiv.org/pdf/2109.05261)** CauseRec: Counterfactual User Sequence Synthesis for Sequential Recommendation. SIGIR 2021. [[code](https://github.com/gzy-rgb/CauseRec)] 
+
+    *Shengyu Zhang, Dong Yao, Zhou Zhao, Tat-seng Chua, Fei Wu.* 
 
 * **[[ASReP'21]](https://dl.acm.org/doi/pdf/10.1145/3404835.3463036)** Augmenting sequential recommendation with pseudo-prior items via reversely pre-training transformer. SIGIR 2021. [[code](https://github.com/DyGRec/ASReP)] 
 
     *Zhiwei Liu, Ziwei Fan, Yu Wang, Philip S Yu.* 
 
-* **[[CoSeRec'21]](https://arxiv.org/pdf/2108.06479)** Contrastive self-supervised sequential recommendation with robust augmentation. x. [[code](https://github.com/YChen1993/CoSeRec)] 
+* **[[CoSeRec'21]](https://arxiv.org/pdf/2108.06479)** Contrastive self-supervised sequential recommendation with robust augmentation. SIGIR 2021. [[code](https://github.com/YChen1993/CoSeRec)] 
 
     *Zhiwei Liu, Yongjun Chen, Jia Li, Philip S Yu, Julian McAuley, Caiming Xiong.* 
 
+* **[[MetaTL]](https://arxiv.org/pdf/2107.06427)** Sequential Recommendation for Cold-start Users with Meta Transitional Learning. SIGIR 2021.  
+
+    *Jianling Wang, Kaize Ding, James Caverlee.* 
+
+* **[[]]()** x. x. [[code](x)] 
+
+    *x* 
 
 * **[[DT4SRec'21]](https://arxiv.org/pdf/2106.06165.pdf)** Modeling Sequences as Distributions with Uncertainty for Sequential Recommendation. CIKM 2021. [[code](https://github.com/DyGRec/DT4SR)] 
 
