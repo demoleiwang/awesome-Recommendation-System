@@ -5,7 +5,7 @@ This repo is a collection of AWESOME things about general recommendation and seq
 Some of these papers are summarized with tables in Google Sheet. Please find the link here: [Summary](https://docs.google.com/spreadsheets/d/1X_aQ-80YNt_jjbfXzs3JreoDxJW3zAs-L1ElV6NuJgc/edit?usp=sharing)
 
 
-![](https://img.shields.io/github/last-commit/demoleiwang/awesome-Recommendation-System?color=green) ![](https://img.shields.io/badge/PaperNumber-25-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/demoleiwang/awesome-Recommendation-System?color=green) ![](https://img.shields.io/badge/PaperNumber-28-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 <!-- 
 * **[[]]()** x. x. [[code](x)] 
@@ -16,9 +16,29 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
 ## Sequential Recommendation
 
-* **[[SINE'21]](https://arxiv.org/pdf/2102.09267.pdf)** Sparse-Interest Network for Sequential Recommendation. WSDM 2021. 
+* **[[SINE'21]](https://arxiv.org/pdf/2102.09267.pdf)** **Sparse**-Interest Network for Sequential Recommendation. WSDM 2021. 
 
     *Qiaoyu Tan, Jianwei Zhang, Jiangchao Yao, Ninghao Liu, Jingren Zhou, Hongxia Yang, Xia Hu.* 
+
+* **[[ACVAE'21]]([https://arxiv.org/abs/2103.10693](https://arxiv.org/pdf/2103.10693.pdf))** **Adversarial** and **Contrastive** Variational Autoencoder for Sequential Recommendation. WWW 2021. [[code](https://github.com/ACVAE/ACVAE-PyTorch)] 
+
+    *Zhe Xie, Chengxuan Liu, Yichi Zhang, Hongtao Lu, Dong Wang, Yue Ding.* 
+
+* **[[FAT'21]](https://arxiv.org/pdf/2011.00422.pdf)** **Future**-Aware Diverse Trends Framework for Recommendation. WWW 2021. [[code](x)] 
+
+    *Yujie Lu, Shengyu Zhang, Yingxuan Huang, Luyao Wang, Xinyao Yu, Zhou Zhao, Fei Wu.* 
+
+* **[[RetaGNN'21]](https://arxiv.org/pdf/2101.12457.pdf)** RetaGNN: **Relational Temporal** Attentive **Graph** Neural Networks for Holistic Sequential Recommendation. WWW 2021. 
+
+    *Cheng Hsu, Cheng-Te Li* 
+
+* **[[]]()** x. x. [[code](x)] 
+
+    *x* 
+
+* **[[]]()** x. x. [[code](x)] 
+
+    *x* 
 
 
 * **[[ASReP'21]](https://dl.acm.org/doi/pdf/10.1145/3404835.3463036)** Augmenting sequential recommendation with pseudo-prior items via reversely pre-training transformer. SIGIR 2021. [[code](https://github.com/DyGRec/ASReP)] 
