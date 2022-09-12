@@ -5,7 +5,7 @@ This repo is a collection of AWESOME things about general recommendation and seq
 Some of these papers are summarized with tables in Google Sheet. Please find the link here: [Summary](https://docs.google.com/spreadsheets/d/1X_aQ-80YNt_jjbfXzs3JreoDxJW3zAs-L1ElV6NuJgc/edit?usp=sharing)
 
 
-![](https://img.shields.io/github/last-commit/demoleiwang/awesome-Recommendation-System?color=green) ![](https://img.shields.io/badge/PaperNumber-44-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/demoleiwang/awesome-Recommendation-System?color=green) ![](https://img.shields.io/badge/PaperNumber-48-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 <!-- 
 
