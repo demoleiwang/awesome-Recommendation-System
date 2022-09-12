@@ -232,3 +232,6 @@ This repo is a collection of AWESOME things about general recommendation and seq
     *Yongjun Chen, Jia Li, Zhiwei Liu, Nitish Shirish Keskar, Huan Wang, Julian McAuley, Caiming Xiong.* 
     
     :) uninformative negatives => generating negative samples
+
+
+## General Recommendation
