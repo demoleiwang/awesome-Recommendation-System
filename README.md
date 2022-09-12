@@ -186,15 +186,15 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
 ### CIKM 2022 (6)
 
-* **[[ContrastVAE'22]](https://arxiv.org/pdf/2209.00456.pdf)** ContrastVAE: Contrastive Variational AutoEncoder for Sequential Recommendation. CIKM 2022. [[code](https://github.com/YuWang-1024/ContrastVAE)] 
+* **[[ContrastVAE'22]](https://arxiv.org/pdf/2209.00456.pdf)** ContrastVAE: **Contrastive Variational** **AutoEncoder** for Sequential Recommendation. CIKM 2022. [[code](https://github.com/YuWang-1024/ContrastVAE)] 
 
     *Yu Wang, Hengrui Zhang, Zhiwei Liu, Liangwei Yang, Philip S Yu.* 
 
-* **[[EC4SRec'22]](https://arxiv.org/pdf/2209.01347)** Explanation Guided Contrastive Learning for Sequential Recommendation. CIKM 2022. [[code](https://github.com/demoleiwang/EC4SRec)] 
+* **[[EC4SRec'22]](https://arxiv.org/pdf/2209.01347)** **Explanation Guided Contrastive** Learning for Sequential Recommendation. CIKM 2022. [[code](https://github.com/demoleiwang/EC4SRec)] 
 
     *Lei Wang, Ee-Peng Lim, Zhiwei Liu, Tianxiang Zhao.* 
 
-* **[[MCLSR'22]](https://arxiv.org/pdf/2208.13007.pdf)** Multi-level Contrastive Learning Framework for Sequential Recommendation. CIKM 2022. 
+* **[[MCLSR'22]](https://arxiv.org/pdf/2208.13007.pdf)** **Multi-level Contrastive** Learning Framework for Sequential Recommendation. CIKM 2022. 
 
     *Ziyang Wang, Huoyu Liu, Wei Wei, Yue Hu, Xian-Ling Mao, Shaojian He, Rui Fang, Dangyang chen.* 
 
@@ -202,12 +202,12 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
     *Lihua Chen, Ning Yang, Philip S Yu.* 
 
-* **[[SAM'22]](https://arxiv.org/pdf/2208.04022.pdf)** Sparse Attentive Memory Network for Click-through Rate Prediction with Long Sequences. CIKM 2022. [[code](https://github.com/waldenlqy/SAM)] 
+* **[[SAM'22]](https://arxiv.org/pdf/2208.04022.pdf)** **Sparse** Attentive Memory Network for Click-through Rate Prediction with **Long** Sequences. CIKM 2022. [[code](https://github.com/waldenlqy/SAM)] 
 
     *Qianying Lin, Wen-Ji Zhou, Yanshi Wang, Qing Da, Qing-Guo Chen, Bing Wang.* 
 
 
-* **[[CBiT'22]](https://arxiv.org/pdf/2208.03895.pdf)** Contrastive Learning with Bidirectional Transformers for Sequential Recommendation. CIKM 2022. [[code](https://github.com/hw-du/CBiT/tree/master)] 
+* **[[CBiT'22]](https://arxiv.org/pdf/2208.03895.pdf)** Contrastive Learning with **Bidirectional** Transformers for Sequential Recommendation. CIKM 2022. [[code](https://github.com/hw-du/CBiT/tree/master)] 
 
     *Hanwen Du, Hui Shi, Pengpeng Zhao, Deqing Wang, Victor S.Sheng, Yanchi Liu, Guanfeng Liu, Lei Zhao.* 
 
@@ -221,13 +221,13 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
     *Xiaowen Huang, Jitao Sang, Jian Yu, Changsheng Xu.* 
     
-* **[[ContraRec'22]](https://dl.acm.org/doi/pdf/10.1145/3522673)** Sequential Recommendation with Multiple Contrast Signals. TOIS 2022. [[code](https://github.com/THUwangcy/ReChorus/blob/master/README.md)] 
+* **[[ContraRec'22]](https://dl.acm.org/doi/pdf/10.1145/3522673)** Sequential Recommendation with **Multiple Contrast** Signals. TOIS 2022. [[code](https://github.com/THUwangcy/ReChorus/blob/master/README.md)] 
 
 
 
 ### Others (1)
 
-* **[[GenNi'22]](https://arxiv.org/pdf/2208.03645.pdf)** Generating Negative Samples for Sequential Recommendation. 2022. 
+* **[[GenNi'22]](https://arxiv.org/pdf/2208.03645.pdf)** **Generating** **Negative** **Samples** for Sequential Recommendation. 2022. 
 
     *Yongjun Chen, Jia Li, Zhiwei Liu, Nitish Shirish Keskar, Huan Wang, Julian McAuley, Caiming Xiong.* 
     
