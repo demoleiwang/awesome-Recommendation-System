@@ -5,7 +5,7 @@ This repo is a collection of AWESOME things about general recommendation and seq
 Some of these papers are summarized with tables in Google Sheet. Please find the link here: [Summary](https://docs.google.com/spreadsheets/d/1X_aQ-80YNt_jjbfXzs3JreoDxJW3zAs-L1ElV6NuJgc/edit?usp=sharing)
 
 
-![](https://img.shields.io/github/last-commit/demoleiwang/awesome-Recommendation-System?color=green) ![](https://img.shields.io/badge/PaperNumber-34-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/demoleiwang/awesome-Recommendation-System?color=green) ![](https://img.shields.io/badge/PaperNumber-44-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 <!-- 
 * **[[]]()** x. x. [[code](x)] 
@@ -70,11 +70,40 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
     *Jianling Wang, Kaize Ding, James Caverlee.* 
 
-### CIKM 2021 (1)
+### CIKM 2021 (8)
 
 * **[[DT4SRec'21]](https://arxiv.org/pdf/2106.06165.pdf)** Modeling Sequences as Distributions with Uncertainty for Sequential Recommendation. CIKM 2021. [[code](https://github.com/DyGRec/DT4SR)] 
 
     *Ziwei Fan, Zhiwei Liu, Shen Wang, Lei Zheng, Philip S Yu.* 
+
+* **[[Seq2Bubbles'21]](https://qitianwu.github.io/assets/Seq2Bubble.pdf)** Seq2Bubbles: Region-Based Embedding Learning for User Behaviors in Sequential Recommenders. CIKM 2021. 
+
+    *Qitian Wu, Chenxiao Yang, Shuodian Yu, Xiaofeng Gao, Guihai Chen* 
+
+* **[[TCT'21]](https://arxiv.org/pdf/2108.06625)** Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer. CIKM 2021. [[code](https://github.com/DyGRec/TGSRec)] 
+
+    *Ziwei Fan, Zhiwei Liu, Jiawei Zhang, Yun Xiong, Lei Zheng, Philip S. Yu.* 
+
+* **[[STEN'21]](https://xinxin-me.github.io/papers/CIKM21.pdf)** Extracting Attentive Social Temporal Excitation for Sequential Recommendation. CIKM 2021. 
+
+    *Yunzhe Li , Yue Ding , Bo Chen , Xin Xin , Yule Wang , Yuxiang Shi , Ruiming Tang , Dong Wang.* 
+
+* **[[H2SeqRec'21]](https://arxiv.org/pdf/2108.08134)** Hyperbolic Hypergraphs for Sequential Recommendation. CIKM 2021. [[code](https://github.com/Abigale001/h2seqrec)] 
+
+    *Yicong Li, Hongxu Chen, Xiangguo Sun, Zhenchao Sun, Lin Li, Lizhen Cui, Philip S. Yu, Guandong Xu.* 
+
+* **[[DRL-SRe'21]](https://arxiv.org/pdf/2109.11790)** Learning Dual Dynamic Representations on Time-Sliced User-Item Interaction Graphs for Sequential Recommendation. CIKM 2021. [[code](https://github.com/weizhangltt/dual-recommend)] 
+
+    *Zeyuan Chen, Wei Zhang, Junchi Yan, Gang Wang, Jianyong Wang.* 
+
+* **[[LSAN'21]](https://arxiv.org/pdf/2108.11333.pdf)** Lightweight Self-Attentive Sequential Recommendation. CIKM 2021. [[code](x)] 
+
+    *Yang Li, Tong Chen, Peng-Fei Zhang, Hongzhi Yin.* 
+
+* **[[locker'21]](https://cseweb.ucsd.edu/~jmcauley/pdfs/cikm21.pdf)** Locker: Locally Constrained Self-Attentive Sequential Recommendation. CIKM 2021. [[code](https://github.com/AaronHeee/LOCKER)] 
+
+    *Zhankui He , Handong Zhao , Zhe Lin , Zhaowen Wang , Ajinkya Kale , Julian Mcauley.* 
+
 
 ### WWW 2022 (4)
 
@@ -163,6 +192,18 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 * **[[EC4SRec'22]](https://arxiv.org/pdf/2209.01347)** Explanation Guided Contrastive Learning for Sequential Recommendation. CIKM 2022. [[code](https://github.com/demoleiwang/EC4SRec)] 
 
     *Lei Wang, Ee-Peng Lim, Zhiwei Liu, Tianxiang Zhao.* 
+    
+### TOIS (3)
+
+* **[[MDSR'22]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/chen-2022-multi-interest.pdf)** Multi-interest Diversification for End-to-end Sequential Recommendation. TOIS 2022. [[code](x)] 
+    
+* **[[metaCSR'22]](https://arxiv.org/pdf/2110.09083)** Learning to Learn a Cold-start Sequential Recommender. TOIS. [[code](x)] 
+
+    *Xiaowen Huang, Jitao Sang, Jian Yu, Changsheng Xu.* 
+    
+* **[[ContraRec'22]](https://dl.acm.org/doi/pdf/10.1145/3522673)** Sequential Recommendation with Multiple Contrast Signals. TOIS 2022. [[code](https://github.com/THUwangcy/ReChorus/blob/master/README.md)] 
+
+
 
 ### Others (1)
 
