@@ -179,7 +179,7 @@ This repo is a collection of AWESOME things about general recommendation and seq
 
     *Yupeng Hou , Shanlei Mu , Wayne Xin Zhao , Yaliang Li , Bolin Ding , Ji-Rong Wen.* 
     
-* **[[MBHT'22]]()** Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation. KDD 2022. [[code](https://github.com/yuh-yang/MBHT-KDD22)] 
+* **[[MBHT'22]](https://arxiv.org/pdf/2207.05584.pdf)** Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation. KDD 2022. [[code](https://github.com/yuh-yang/MBHT-KDD22)] 
 
     *Yuhao Yang , Chao Huang , Lianghao Xia , Yuxuan Liang , Yanwei Yu , Chenliang Li.* 
 
