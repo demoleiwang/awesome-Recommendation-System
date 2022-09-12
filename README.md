@@ -8,6 +8,7 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 ![](https://img.shields.io/github/last-commit/demoleiwang/awesome-Recommendation-System?color=green) ![](https://img.shields.io/badge/PaperNumber-44-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 <!-- 
+
 * **[[]]()** x. x. [[code](x)] 
 
     *x* 
@@ -183,7 +184,7 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
     *Yuhao Yang , Chao Huang , Lianghao Xia , Yuxuan Liang , Yanwei Yu , Chenliang Li.* 
 
 
-### CIKM 2022 (2)
+### CIKM 2022 (6)
 
 * **[[ContrastVAE'22]](https://arxiv.org/pdf/2209.00456.pdf)** ContrastVAE: Contrastive Variational AutoEncoder for Sequential Recommendation. CIKM 2022. [[code](https://github.com/YuWang-1024/ContrastVAE)] 
 
@@ -192,7 +193,26 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 * **[[EC4SRec'22]](https://arxiv.org/pdf/2209.01347)** Explanation Guided Contrastive Learning for Sequential Recommendation. CIKM 2022. [[code](https://github.com/demoleiwang/EC4SRec)] 
 
     *Lei Wang, Ee-Peng Lim, Zhiwei Liu, Tianxiang Zhao.* 
-    
+
+* **[[MCLSR'22]](https://arxiv.org/pdf/2208.13007.pdf)** Multi-level Contrastive Learning Framework for Sequential Recommendation. CIKM 2022. 
+
+    *Ziyang Wang, Huoyu Liu, Wei Wei, Yue Hu, Xian-Ling Mao, Shaojian He, Rui Fang, Dangyang chen.* 
+
+* **[[TLSRec'22]](https://arxiv.org/pdf/2208.04760.pdf)** Time Lag Aware Sequential Recommendation. CIKM 2022. [[code](x)] 
+
+    *Lihua Chen, Ning Yang, Philip S Yu.* 
+
+* **[[SAM'22]](https://arxiv.org/pdf/2208.04022.pdf)** Sparse Attentive Memory Network for Click-through Rate Prediction with Long Sequences. CIKM 2022. [[code](https://github.com/waldenlqy/SAM)] 
+
+    *Qianying Lin, Wen-Ji Zhou, Yanshi Wang, Qing Da, Qing-Guo Chen, Bing Wang.* 
+
+
+* **[[CBiT'22]](https://arxiv.org/pdf/2208.03895.pdf)** Contrastive Learning with Bidirectional Transformers for Sequential Recommendation. CIKM 2022. [[code](https://github.com/hw-du/CBiT/tree/master)] 
+
+    *Hanwen Du, Hui Shi, Pengpeng Zhao, Deqing Wang, Victor S.Sheng, Yanchi Liu, Guanfeng Liu, Lei Zhao.* 
+
+
+ 
 ### TOIS (3)
 
 * **[[MDSR'22]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/chen-2022-multi-interest.pdf)** Multi-interest Diversification for End-to-end Sequential Recommendation. TOIS 2022. [[code](x)] 
