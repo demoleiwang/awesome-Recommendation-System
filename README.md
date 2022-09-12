@@ -17,13 +17,13 @@ This repo is a collection of AWESOME things about general recommendation and seq
 
 ## Sequential Recommendation
 
-### WSDM 2021 (1)
+#### WSDM 2021 (1)
 
 * **[[SINE'21]](https://arxiv.org/pdf/2102.09267.pdf)** **Sparse**-Interest Network for Sequential Recommendation. WSDM 2021. 
 
     *Qiaoyu Tan, Jianwei Zhang, Jiangchao Yao, Ninghao Liu, Jingren Zhou, Hongxia Yang, Xia Hu.* 
     
-### WWW 2021 (3)
+#### WWW 2021 (3)
 
 * **[[ACVAE'21]](https://arxiv.org/pdf/2103.10693.pdf)** **Adversarial** and **Contrastive** Variational Autoencoder for Sequential Recommendation. WWW 2021. [[code](https://github.com/ACVAE/ACVAE-PyTorch)] 
 
@@ -37,7 +37,7 @@ This repo is a collection of AWESOME things about general recommendation and seq
 
     *Cheng Hsu, Cheng-Te Li* 
 
-### SIGIR 2021 (8)
+#### SIGIR 2021 (8)
 
 * **[[CoCoRec'21]](https://www.cs.virginia.edu/~hw5x/paper/SIGIR2021_SeqRec_Cai.pdf)** Category-aware Collaborative Sequential Recommendation. SIGIR 2021. [[code](https://github.com/RenqinCai/CoCoRec)] 
 
@@ -71,7 +71,7 @@ This repo is a collection of AWESOME things about general recommendation and seq
 
     *Jianling Wang, Kaize Ding, James Caverlee.* 
 
-### CIKM 2021 (8)
+#### CIKM 2021 (8)
 
 * **[[DT4SRec'21]](https://arxiv.org/pdf/2106.06165.pdf)** Modeling Sequences as Distributions with Uncertainty for Sequential Recommendation. CIKM 2021. [[code](https://github.com/DyGRec/DT4SR)] 
 
@@ -106,7 +106,7 @@ This repo is a collection of AWESOME things about general recommendation and seq
     *Zhankui He , Handong Zhao , Zhe Lin , Zhaowen Wang , Ajinkya Kale , Julian Mcauley.* 
 
 
-### WWW 2022 (4)
+#### WWW 2022 (4)
 
 * **[[STOSA'22]](https://arxiv.org/pdf/2201.06035.pdf)** Sequential Recommendation via Stochastic Self-Attention. WWW 2022. [[code](https://github.com/zfan20/STOSA)] 
 
@@ -123,7 +123,7 @@ This repo is a collection of AWESOME things about general recommendation and seq
 
 * **[[STARec'22]](https://arxiv.org/pdf/2202.03097.pdf)** Learn over Past, Evolve for Future: Search-based Time-aware Recommendation with Sequential Behavior Data. WWW 2022.
 
-### SIGIR 2022 (10)
+#### SIGIR 2022 (10)
 
 * **[[DCN'22]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531918)** Dual Contrastive Network for Sequential Recommendation. SIGIR 2022 (SHORT). [[code](x)] 
 
@@ -165,7 +165,7 @@ This repo is a collection of AWESOME things about general recommendation and seq
 
     *Yu Tian, Jianxin Chang, Yannan Niu, Yang Song, Chenliang Li.* 
 
-### kdd 2022 (4)
+#### kdd 2022 (4)
 
 * **[[IPS'22]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539430)** Debiasing the Cloze Task in Sequential Recommendation with Bidirectional Transformers. KDD 2022. [[code](https://github.com/KhalilDMK/DebiasedBERT4Rec)] 
 
@@ -184,7 +184,7 @@ This repo is a collection of AWESOME things about general recommendation and seq
     *Yuhao Yang , Chao Huang , Lianghao Xia , Yuxuan Liang , Yanwei Yu , Chenliang Li.* 
 
 
-### CIKM 2022 (6)
+#### CIKM 2022 (6)
 
 * **[[ContrastVAE'22]](https://arxiv.org/pdf/2209.00456.pdf)** ContrastVAE: **Contrastive Variational** **AutoEncoder** for Sequential Recommendation. CIKM 2022. [[code](https://github.com/YuWang-1024/ContrastVAE)] 
 
@@ -213,7 +213,7 @@ This repo is a collection of AWESOME things about general recommendation and seq
 
 
  
-### TOIS (3)
+#### TOIS (3)
 
 * **[[MDSR'22]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/chen-2022-multi-interest.pdf)** Multi-interest Diversification for End-to-end Sequential Recommendation. TOIS 2022. [[code](x)] 
     
@@ -225,7 +225,7 @@ This repo is a collection of AWESOME things about general recommendation and seq
 
 
 
-### Others (1)
+#### Others (1)
 
 * **[[GenNi'22]](https://arxiv.org/pdf/2208.03645.pdf)** **Generating** **Negative** **Samples** for Sequential Recommendation. 2022. 
 
