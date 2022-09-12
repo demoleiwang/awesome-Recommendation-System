@@ -16,11 +16,15 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
 ## Sequential Recommendation
 
+### WSDM 2021 (1)
+
 * **[[SINE'21]](https://arxiv.org/pdf/2102.09267.pdf)** **Sparse**-Interest Network for Sequential Recommendation. WSDM 2021. 
 
     *Qiaoyu Tan, Jianwei Zhang, Jiangchao Yao, Ninghao Liu, Jingren Zhou, Hongxia Yang, Xia Hu.* 
+    
+### WWW 2021 (3)
 
-* **[[ACVAE'21]]((https://arxiv.org/pdf/2103.10693.pdf))** **Adversarial** and **Contrastive** Variational Autoencoder for Sequential Recommendation. WWW 2021. [[code](https://github.com/ACVAE/ACVAE-PyTorch)] 
+* **[[ACVAE'21]](https://arxiv.org/pdf/2103.10693.pdf)** **Adversarial** and **Contrastive** Variational Autoencoder for Sequential Recommendation. WWW 2021. [[code](https://github.com/ACVAE/ACVAE-PyTorch)] 
 
     *Zhe Xie, Chengxuan Liu, Yichi Zhang, Hongtao Lu, Dong Wang, Yue Ding.* 
 
@@ -31,6 +35,8 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 * **[[RetaGNN'21]](https://arxiv.org/pdf/2101.12457.pdf)** RetaGNN: **Relational Temporal** Attentive **Graph** Neural Networks for Holistic Sequential Recommendation. WWW 2021. [[code]](https://github.com/retagnn/RetaGNN)
 
     *Cheng Hsu, Cheng-Te Li* 
+
+### SIGIR 2021 (8)
 
 * **[[CoCoRec'21]](https://www.cs.virginia.edu/~hw5x/paper/SIGIR2021_SeqRec_Cai.pdf)** Category-aware Collaborative Sequential Recommendation. SIGIR 2021. [[code](https://github.com/RenqinCai/CoCoRec)] 
 
@@ -64,14 +70,13 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
     *Jianling Wang, Kaize Ding, James Caverlee.* 
 
-* **[[]]()** x. x. [[code](x)] 
-
-    *x* 
+### CIKM 2021 (1)
 
 * **[[DT4SRec'21]](https://arxiv.org/pdf/2106.06165.pdf)** Modeling Sequences as Distributions with Uncertainty for Sequential Recommendation. CIKM 2021. [[code](https://github.com/DyGRec/DT4SR)] 
 
     *Ziwei Fan, Zhiwei Liu, Shen Wang, Lei Zheng, Philip S Yu.* 
 
+### WWW 2022 (4)
 
 * **[[STOSA'22]](https://arxiv.org/pdf/2201.06035.pdf)** Sequential Recommendation via Stochastic Self-Attention. WWW 2022. [[code](https://github.com/zfan20/STOSA)] 
 
@@ -88,6 +93,7 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
 * **[[STARec'22]](https://arxiv.org/pdf/2202.03097.pdf)** Learn over Past, Evolve for Future: Search-based Time-aware Recommendation with Sequential Behavior Data. WWW 2022.
 
+### SIGIR 2022 (10)
 
 * **[[DCN'22]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531918)** Dual Contrastive Network for Sequential Recommendation. SIGIR 2022 (SHORT). [[code](x)] 
 
@@ -129,6 +135,8 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
     *Yu Tian, Jianxin Chang, Yannan Niu, Yang Song, Chenliang Li.* 
 
+### kdd 2022 (4)
+
 * **[[IPS'22]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539430)** Debiasing the Cloze Task in Sequential Recommendation with Bidirectional Transformers. KDD 2022. [[code](https://github.com/KhalilDMK/DebiasedBERT4Rec)] 
 
     *Khalil Damak , Sami Khenissi , Olfa Nasraoui.* 
@@ -146,11 +154,7 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
     *Yuhao Yang , Chao Huang , Lianghao Xia , Yuxuan Liang , Yanwei Yu , Chenliang Li.* 
 
 
-* **[[GenNi'22]](https://arxiv.org/pdf/2208.03645.pdf)** Generating Negative Samples for Sequential Recommendation. 2022. 
-
-    *Yongjun Chen, Jia Li, Zhiwei Liu, Nitish Shirish Keskar, Huan Wang, Julian McAuley, Caiming Xiong.* 
-    
-    :) uninformative negatives => generating negative samples
+### CIKM 2022 (2)
 
 * **[[ContrastVAE'22]](https://arxiv.org/pdf/2209.00456.pdf)** ContrastVAE: Contrastive Variational AutoEncoder for Sequential Recommendation. CIKM 2022. [[code](https://github.com/YuWang-1024/ContrastVAE)] 
 
@@ -159,3 +163,11 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 * **[[EC4SRec'22]](https://arxiv.org/pdf/2209.01347)** Explanation Guided Contrastive Learning for Sequential Recommendation. CIKM 2022. [[code](https://github.com/demoleiwang/EC4SRec)] 
 
     *Lei Wang, Ee-Peng Lim, Zhiwei Liu, Tianxiang Zhao.* 
+
+### Others (1)
+
+* **[[GenNi'22]](https://arxiv.org/pdf/2208.03645.pdf)** Generating Negative Samples for Sequential Recommendation. 2022. 
+
+    *Yongjun Chen, Jia Li, Zhiwei Liu, Nitish Shirish Keskar, Huan Wang, Julian McAuley, Caiming Xiong.* 
+    
+    :) uninformative negatives => generating negative samples
