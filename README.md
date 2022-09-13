@@ -165,7 +165,7 @@ This repo is a collection of AWESOME things about general recommendation and seq
 
     *Yu Tian, Jianxin Chang, Yannan Niu, Yang Song, Chenliang Li.* 
 
-#### kdd 2022 (4)
+#### KDD 2022 (4)
 
 * **[[IPS'22]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539430)** Debiasing the Cloze Task in Sequential Recommendation with Bidirectional Transformers. KDD 2022. [[code](https://github.com/KhalilDMK/DebiasedBERT4Rec)] 
 
