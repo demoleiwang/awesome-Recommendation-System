@@ -17,6 +17,22 @@ This repo is a collection of AWESOME things about general recommendation and seq
 
 ## Sequential Recommendation
 
+#### AAAI 2020 (TBD)
+
+#### WWWW 2020 (TBD)
+
+#### SIGIR 2020 (TBD)
+
+#### KDD 2020 (TBD)
+
+#### RecSys 2020 (TBD)
+
+#### CIKM 2020 (TBD)
+
+#### WSDM 2020 (TBD)
+
+#### Others 2020 (TBD)
+
 #### WSDM 2021 (1)
 
 * **[[SINE'21]](https://arxiv.org/pdf/2102.09267.pdf)** **Sparse**-Interest Network for Sequential Recommendation. WSDM 2021. 
