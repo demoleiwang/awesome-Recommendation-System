@@ -17,6 +17,22 @@ This repo is a collection of AWESOME things about general recommendation and seq
 
 ## Sequential Recommendation
 
+#### AAAI 2019 (TBD)
+
+#### WWWW 2019 (TBD)
+
+#### SIGIR 2019 (TBD)
+
+#### KDD 2019 (TBD)
+
+#### RecSys 2019 (TBD)
+
+#### CIKM 2019 (TBD)
+
+#### WSDM 2019 (TBD)
+
+#### Others 2019 (TBD)
+
 #### AAAI 2020 (TBD)
 
 #### WWWW 2020 (TBD)
